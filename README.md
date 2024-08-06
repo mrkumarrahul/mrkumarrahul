@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kumarrahulmahto1211@gmail.com**
 
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/66b1f5a1a9a2af07de8eb164](https://app.luminpdf.com/viewer/66b1f5a1a9a2af07de8eb164)
+- 📄 Here is my Resume [https://app.luminpdf.com/viewer/66b1f5a1a9a2af07de8eb164](https://app.luminpdf.com/viewer/66b1f5a1a9a2af07de8eb164)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
