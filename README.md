@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@rahulku49194925" target="blank"><img src="https://img.shields.io/twitter/follow/@rahulku49194925?logo=twitter&style=for-the-badge" alt="@rahulku49194925" /></a> </p>
 
-- 🔭 I’m currently working on **Learning Management System**
+- 🔭 I’m currently working on **Learning Management System End ** a real time Full Stack Project on MERN Stack
 
 - 🌱 I’m currently learning **Hibernate,spring,React**
 
